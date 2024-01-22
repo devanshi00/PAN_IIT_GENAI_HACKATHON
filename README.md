@@ -27,5 +27,6 @@ User can summarise paper of his/her choice through this option of our interface:
 https://github.com/devanshi00/PAN_IIT_GENAI_HACKATHON/assets/117909426/8b843b88-2c5d-413f-9b22-1f515d5fc355
 
 PPT of our final submission:
+[final_presentation.pptx](https://github.com/devanshi00/PAN_IIT_GENAI_HACKATHON/files/14007968/final_presentation.pptx)
 
 
